@@ -1,7 +1,7 @@
 # Spacecraft-Maneuver-Detection
 
 This repository contains a project aimed at detecting spacecraft maneuvers using machine learning techniques and data analysis. The goal is to identify key events or deviations in spacecraft trajectories that indicate deliberate changes in velocity or direction, such as orbit adjustments.
-Features
+# Features
 
     Data Preprocessing: Handles spacecraft telemetry data and prepares it for analysis.
     Maneuver Detection: Implements algorithms to detect sudden changes in spacecraft velocity or trajectory.
